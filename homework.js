@@ -1,0 +1,11 @@
+let myDreamCar = "mercedes-AMG GT";
+console.log(myDreamCar);
+let hobbies = ["coding", "listening to music", "watching movies", "cooking", "baking"];
+console.log(hobbies[4]);
+let colours = ["Red", "green", "yellow", "blue", "black"];
+console.log(colours[3]);
+console.log(colours[1]);
+myDreamCar = ["mercedes-AMG GT", "black"];
+let number1 = 5;
+let number2 = 16;
+console.log(number1 + number2);
